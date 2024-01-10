@@ -13,7 +13,7 @@ export default function Forgetpassword() {
       <Container>
         <form className= { commonModalClasses+"w-100  space-y-4"}>
           <Title>Please Enter Your Email</Title>
-          <FormInput name="email" placeholder="abc@gmail.com" label="Email" />
+          <FormInput name="email" placeholder="abc@gmail.com" label="Email"  />
          <Submit val="Send Link" />
          
 
